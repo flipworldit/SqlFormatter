@@ -1,0 +1,9 @@
+C:\Алим\18.03.2019\SqlParse\SqlParse\obj\Debug\SqlParse.csprojAssemblyReference.cache
+C:\Алим\18.03.2019\SqlParse\SqlParse\obj\Debug\SqlParse.csproj.CoreCompileInputs.cache
+C:\Алим\18.03.2019\SqlParse\SqlParse\bin\Debug\SqlParse.dll
+C:\Алим\18.03.2019\SqlParse\SqlParse\bin\Debug\SqlParse.pdb
+C:\Алим\18.03.2019\SqlParse\SqlParse\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Алим\18.03.2019\SqlParse\SqlParse\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Алим\18.03.2019\SqlParse\SqlParse\obj\Debug\SqlParse.csproj.CopyComplete
+C:\Алим\18.03.2019\SqlParse\SqlParse\obj\Debug\SqlParse.dll
+C:\Алим\18.03.2019\SqlParse\SqlParse\obj\Debug\SqlParse.pdb
